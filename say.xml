@@ -1,0 +1,4 @@
+<Response>
+<Say voice="alice">Thanks for trying our documentation. Enjoy!</Say>
+<Play>https://github.com/nasereddinen/bot_voices/raw/main/Record%20(online-voice-recorder.com).mp3</Play>
+</Response>
